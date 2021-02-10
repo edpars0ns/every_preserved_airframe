@@ -15,8 +15,9 @@ If feel free to add an aircraft type by forking but try to do so only for comple
 | [BAC/Aerospatiale Concorde ](https://en.wikipedia.org/wiki/Concorde)  | February 10, 2021 |
 
 ## To-Do
-Supermarine Spitfire
-Rockwell Space Shuttle orbiter
+
+- Supermarine Spitfire
+- Rockwell Space Shuttle orbiter
 
 ### Suggestions
 tba
