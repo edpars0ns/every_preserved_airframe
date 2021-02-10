@@ -1,0 +1,17 @@
+"name": "airframes",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.066944, 33.445278]
+      },
+      "properties": {
+        "Type": "BAC/Aerospatiale Concorde",
+        "Registration": "G-BOAA",
+        "Location": "East Fortune, Scotland",
+        "Lat": "55.9951362",
+        "Long": "-2.7237709"
+      }
+    }
