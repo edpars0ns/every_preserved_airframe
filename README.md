@@ -2,7 +2,7 @@
 
 Every preserved example of a retired aircraft type in [GeoJSON](http://geojson.org)
 
-Starting with the iconic BAC/Aerospatiale Concorde a collection of preserved aircraft I [visited](https://www.edparsons.com/2017/03/every-concorde-in-a-year/) in 2016/17, I aim to colate the locations of all the preserved examples of aircraft on display in museums, vistors centers on poles at aerodromes etc.
+Starting with the iconic BAC/Aerospatiale Concorde a collection of preserved aircraft I [visited](https://www.edparsons.com/2017/03/every-concorde-in-a-year/) in 2016/17, I aim to colate the locations of all the preserved non-flying examples of aircraft on display in museums, vistors centers on poles at aerodromes etc.
 
 Below is a list of airframes that have been colated and mapped, and in due course thoses being worked on and a to-do list.
 
