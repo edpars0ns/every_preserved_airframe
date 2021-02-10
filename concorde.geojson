@@ -9,7 +9,7 @@
         "coordinates": [-2.7237709, 55.9951362]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 102",
         "Registration": "G-BOAA",
         "Location": "East Fortune, Scotland",
         "Lat": "55.9951362",
@@ -24,7 +24,7 @@
         "coordinates": [-0.4652655,51.3552069]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 100",
         "Registration": "G-BBDG",
         "Location": "Weybridge, England",
         "Lat": "51.3552069",
@@ -39,7 +39,7 @@
         "coordinates": [-77.4441776,38.9107118]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 101",
         "Registration": "F-BVFA",
         "Location": "Chantilly, USA",
         "Lat": "38.9107118",
@@ -54,7 +54,7 @@
         "coordinates": [-2.2848853,53.3530086]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 102",
         "Registration": "G-BOAC",
         "Location": "Manchester,England",
         "Lat": "53.3530086",
@@ -69,9 +69,9 @@
         "coordinates": [-2.5788432,51.5221298]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 102",
         "Registration": "G-BOAF",
-        "Location": "Manchester,England",
+        "Location": "Bristol,England",
         "Lat": "51.5221298",
         "Long": "-2.5788432"
       }
@@ -84,7 +84,7 @@
         "coordinates": [1.3606019,43.6602281]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 100",
         "Registration": "F-WTSB",
         "Location": "Toulouse, France",
         "Lat": "43.6602281",
@@ -99,7 +99,7 @@
         "coordinates": [1.3605,43.6594849]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 101",
         "Registration": "F-BVFC",
         "Location": "Toulouse, France",
         "Lat": "43.6594849",
@@ -114,7 +114,7 @@
         "coordinates": [2.5533644,49.0106485]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 101",
         "Registration": "F-BVFF",
         "Location": "Paris CDG Airport, France",
         "Lat": "49.0106485",
@@ -129,7 +129,7 @@
         "coordinates": [2.3720499,48.7158001]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 100",
         "Registration": "F-WTSA",
         "Location": "Paris ORY Airport, France",
         "Lat": "48.7158001",
@@ -144,7 +144,7 @@
         "coordinates": [2.4337382,48.9469928]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 101",
         "Registration": "F-BTSD",
         "Location": "Le Bourget, France",
         "Lat": "48.9469928",
@@ -159,7 +159,7 @@
         "coordinates": [2.4338777,48.9468377]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde",
         "Registration": "F-WTSS",
         "Location": "Le Bourget, France",
         "Lat": "48.9468377",
@@ -174,7 +174,7 @@
         "coordinates": [-2.6360794,51.0148279]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 100",
         "Registration": "G-BSST",
         "Location": "Yeovilton, England",
         "Lat": "51.0148279",
@@ -189,7 +189,7 @@
         "coordinates": [-0.433022,51.4670117]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 102",
         "Registration": "G-BOAB",
         "Location": "London LHR Airport, England",
         "Lat": "51.4670117",
@@ -204,7 +204,7 @@
         "coordinates": [8.8971211,49.2395389]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 101",
         "Registration": "F-BVFB",
         "Location": "Sinsheim, Germany",
         "Lat": "49.2395389",
@@ -219,7 +219,7 @@
         "coordinates": [-74.0018263,40.7656679]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 102",
         "Registration": "G-BOAD",
         "Location": "New York, USA",
         "Lat": "40.7656679",
@@ -234,7 +234,7 @@
         "coordinates": [-59.4851886,13.0809393]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 102",
         "Registration": "G-BOAE",
         "Location": "Bridgetown, Barbados",
         "Lat": "13.0809393",
@@ -249,7 +249,7 @@
         "coordinates": [-122.2999644,47.5197373]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde 102",
         "Registration": "G-BOAG",
         "Location": "Seattle, USA",
         "Lat": "47.5197373",
@@ -264,7 +264,7 @@
         "coordinates": [0.1367307,52.0970382]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde 201",
+        "Type": "BAC/Aerospatiale Concorde",
         "Registration": "G-AXDN",
         "Location": "Duxford, England",
         "Lat": "52.0970382",
