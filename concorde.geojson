@@ -9,11 +9,26 @@
         "coordinates": [-2.7237709, 55.9951362]
       },
       "properties": {
-        "Type": "BAC/Aerospatiale Concorde",
+        "Type": "BAC/Aerospatiale Concorde 201",
         "Registration": "G-BOAA",
         "Location": "East Fortune, Scotland",
         "Lat": "55.9951362",
         "Long": "-2.7237709"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.4652655,51.3552069]
+      },
+      "properties": {
+        "Type": "BAC/Aerospatiale Concorde 201",
+        "Registration": "G-BBDG",
+        "Location": "Weybridge, England",
+        "Lat": "51.3552069",
+        "Long": "-0.4652655"
       }
     }
     ]
