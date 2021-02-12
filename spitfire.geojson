@@ -1,0 +1,35 @@
+{
+  "name": "airframes",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1760331, 51.4973355]
+      },
+      "properties": {
+        "Type": "Supermarine Spitfire 1A",
+        "Registration": "P8444",
+        "Location": "Science Museum,London,England",
+        "Lat": "51.49733552",
+        "Long": "-0.1760331"
+      }
+    },
+    
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1760331, 51.4973355]
+      },
+      "properties": {
+        "Type": "Supermarine Spitifre F.22",
+        "Registration": "PK664",
+        "Location": Science Museum,London, England",
+        "Lat": "51.49733552",
+        "Long": "-0.1760331"
+      }
+    }
+    ]
+}
