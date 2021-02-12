@@ -21,14 +21,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.1760331, 51.4973355]
+        "coordinates": [-0.1742625, 51.4974698]
       },
       "properties": {
         "Type": "Supermarine Spitifre F.22",
         "Registration": "PK664",
         "Location": "Science Museum,London, England",
-        "Lat": "51.49733552",
-        "Long": "-0.1760331"
+        "Lat": "51.4974698",
+        "Long": "-0.1742625"
       }
     }
     ]
