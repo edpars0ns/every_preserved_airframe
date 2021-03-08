@@ -30,6 +30,21 @@
         "Lat": "51.4974698",
         "Long": "-0.1742625"
       }
-    }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1090374, 51.4957931]
+      },
+      "properties": {
+        "Type": "Supermarine Spitfire 1A",
+        "Registration": "R6915",
+        "Location": "Imperial War Museum,London,England",
+        "Lat": "51.4957931",
+        "Long": "-0.1090374"
+      }
+    }   
+    
     ]
 }
